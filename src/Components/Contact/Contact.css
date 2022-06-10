@@ -1,0 +1,37 @@
+.contact-container {
+  background-color: #396eb0;
+  color: white;
+}
+.contact-desc {
+  text-align: center;
+  margin: 0% 25% 2%;
+  font-size: 1.1em;
+  line-height: 1.5;
+}
+.contact-info {
+  display: flex;
+  justify-content: center;
+}
+.contact-info > a {
+  font-size: 1.5em;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 8px;
+  background-color: #20589c;
+  border-radius: 20px;
+  padding: 1.5% 2%;
+  margin: 0 4% 4%;
+  display: flex;
+  width: 10vw;
+  color: white;
+  text-decoration: none;
+}
+.contact-info p {
+  margin-left: 8%;
+}
+.back-to-top {
+  text-align: right;
+  padding: 0 5% 3%;
+}
+.back-to-top > a {
+  text-decoration: none;
+  color: white;
+}
