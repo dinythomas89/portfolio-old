@@ -16,7 +16,7 @@ function Projects() {
               <p className="project-desc">{project.description}</p>
               <p>
                 <a href={project.website} target="_blank" rel="noreferrer">
-                  Github
+                  {project.id === 5 ? "Figma" : "Github"}
                 </a>
                 <a
                   className="live-link"

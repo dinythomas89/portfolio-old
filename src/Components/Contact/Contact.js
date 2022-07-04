@@ -31,10 +31,6 @@ function Contact() {
           <p>Linkedin</p>
         </a>
       </div>
-      <div className="back-to-top">
-        <a href="#header">Back to top</a>
-        <TiArrowUpThick />
-      </div>
     </div>
   );
 }

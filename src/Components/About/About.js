@@ -9,11 +9,12 @@ function About() {
         <p>
           My name is Diny Thomas and I describe myself as a positive,
           enthusiastic Front-End Developer with keen eye for developing and
-          implementing responsive and interactive web applications. Currently I
-          am working at
-          <ul>
-            <li>Danske Bank as a Front-End Engineer Intern focusing on React, Typescript, Apollo GraphQL and Styled Components .</li>
-          </ul>
+          implementing responsive and interactive web applications.
+        </p>
+        <p>
+          Stacks:&nbsp; HTML/CSS, JavaScript, React, SASS, Styled Components,
+          Typescript, Recoil, Apollo GraphQL, Nodejs, MySQL, Git, Github, Bitbucket, Jira
+          <p>I am also familiar with the libraries such as Formik, MSW</p>
         </p>
         <p> In my free time I like to read books and go a walk around.</p>
       </div>
