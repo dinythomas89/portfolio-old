@@ -5,6 +5,16 @@ import portfolio from "../../Images/portfolio.png";
 
 export const myProjects = [
   {
+    id: 7,
+    name: "Galleria",
+    website: "https://github.com/dinythomas89/galleria",
+    live: "",
+    language: "TypeScript, React, Styled Components, Zustand",
+    image: "",
+    description:
+      "An art gallery where you can find the masterpieces of famous paintors",
+  },
+  {
     id: 1,
     name: "ToDo list",
     website: "https://github.com/dinythomas89/todo-list",
