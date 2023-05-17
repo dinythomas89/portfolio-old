@@ -1,3 +1,4 @@
+import artGalleria from "../../Images/artGallery.png";
 import todo from "../../Images/todo.png";
 import rediTalentPool from "../../Images/rediTalentPool.png";
 import mealSharing from "../../Images/mealSharing.png";
@@ -10,7 +11,7 @@ export const myProjects = [
     website: "https://github.com/dinythomas89/galleria",
     live: "",
     language: "TypeScript, React, Styled Components, Zustand",
-    image: "",
+    image: artGalleria,
     description:
       "An art gallery where you can find the masterpieces of famous paintors",
   },
@@ -65,14 +66,5 @@ export const myProjects = [
     image: rediTalentPool,
     description:
       "I created this design for the ReDI school Talent Pool which helps their students to find job openings and to apply. I have made surveys, interviews and testing to make this design work. ",
-  },
-  {
-    id: 6,
-    name: "Viva - Dress Up",
-    website: "https://github.com/dinythomas89/Viva-Dress-up",
-    live: "",
-    language: "React, Firebase, Typescript, Apollo GraphQL, Stripe, Redux",
-    image: "https://cdn-icons-png.flaticon.com/512/5578/5578703.png",
-    description: "Its an E-Commerce website. ",
-  },
+  }
 ];

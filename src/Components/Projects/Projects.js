@@ -31,6 +31,14 @@ function Projects() {
           </div>
         ))}
       </div>
+      <div className="view-more-button">
+        <a
+          href="https://github.com/dinythomas89?tab=repositories"
+          target="_blank" rel="noreferrer"
+        >
+          View more
+        </a>
+      </div>
     </div>
   );
 }

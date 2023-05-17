@@ -7,16 +7,23 @@ function About() {
       <h2>Know who am I</h2>
       <div>
         <p>
-          My name is Diny Thomas and I describe myself as a positive,
-          enthusiastic Front-End Developer with keen eye for developing and
-          implementing responsive and interactive web applications.
+          I am a Copenhagen based Frontend Developer with a Bachelor's degree in
+          computer science, living in Denmark for the past 9 years. With a
+          passion for exploring, building, testing and maintaining simple and
+          accessible user experiences, I look for ways to create tangible impact
+          while learning throughout the process. Having 3+ years of diverse
+          experience in frontend development, I possess a solid understanding of
+          key concepts and also knowledgeable in backend technologies as well.
+          As a people person, I am enthusiastic, curious to continuously learn
+          and enrich the user experience with visually attractive, intuitive
+          interfaces.
         </p>
         <p>
-          Stacks:&nbsp; HTML/CSS, JavaScript, React, SASS, Styled Components,
-          Typescript, Recoil, Apollo GraphQL, Nodejs, MySQL, Git, Github, Bitbucket, Jira
-          <p>I am also familiar with the libraries such as Formik, MSW</p>
+          I enjoy listening to music and reading Novels depicting the struggles
+          of common people or fantasy novels. Occasionally, a bit of dancing
+          with my friends and I believe in the importance of spending quality
+          time with my family.
         </p>
-        <p> In my free time I like to read books and go a walk around.</p>
       </div>
     </div>
   );

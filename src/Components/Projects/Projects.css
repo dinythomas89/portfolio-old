@@ -32,7 +32,8 @@
   width: 20vw;
   height: 40vh;
 }
-.my-project a {
+.my-project a,
+.view-more-button > a {
   color: black;
   text-decoration: none;
   border: 1px solid black;
@@ -42,4 +43,14 @@
 }
 .live-link {
   margin-left: 2%;
+}
+.view-more-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3%;
+}
+.view-more-button > a {
+  font-size: 1.4em;
+  padding: 2% 3%;
 }

@@ -25,7 +25,7 @@ function Home() {
             My name is <span>Diny Thomas</span>.
           </p>
           <p className="my-desc">
-            I'm Copenhagen based <span>Front-End Developer</span> <br />
+            I'm Copenhagen based <span>Web Developer</span> <br />
             focusing on creating interactive and user friendly websites.
           </p>
         </div>
